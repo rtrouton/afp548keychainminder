@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {change = id; ignore = id; }; 
+            CLASS = KeychainMinder; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {appWindow = NSWindow; newPass = NSTextField; oldPass = NSTextField; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}
